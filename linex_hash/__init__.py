@@ -1,1 +1,1 @@
-import hash
+import .hash
