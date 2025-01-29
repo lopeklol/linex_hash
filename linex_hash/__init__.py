@@ -1,1 +1,1 @@
-from .hash import hash
+import hash
