@@ -8,3 +8,10 @@ To install Linex Hash, use the following pip command:
 
 ```bash
 pip install linex_hash
+```
+
+Ore you can use it as npm module:
+
+```bash
+npm install linex_hash
+```
